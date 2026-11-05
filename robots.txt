@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://los-orishas.vercel.app/sitemap.xml
